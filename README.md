@@ -15,18 +15,21 @@
 ### Step 2.:- Design the geometric features in 3D using auto desk fusion 360.
 ### Step 3.:- Save the file and export as .stl
 ### Step 4.:- Check all Electrical connections in the 3D printer.
-![Alt text](<Screenshot 2023-12-28 120101.png>)
+![Screenshot 2023-12-28 120101](https://github.com/sasintharparanthaman/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145743219/7dd102a6-089a-428e-a818-581632d25ff2)
 
 ### Step 5.:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option.
 ### Step 6.:- Select the Pan option and select the extruder (left or right) for printing the design.
-![Alt text](<Screenshot 2023-12-28 120136.png>)
+![Screenshot 2023-12-28 120136](https://github.com/sasintharparanthaman/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145743219/a93c3aff-8a9d-4d31-bd64-d480457c6160)
+
 
 ### Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
-![Alt text](<Screenshot 2023-12-28 120154.png>)
+![Screenshot 2023-12-28 120154](https://github.com/sasintharparanthaman/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145743219/4e70ff7b-2e89-4d7f-b33a-eebc9c6a09de)
+
 
 ### Step 8.:- select the Scale option for design scale according to build tack plate area and then
 ### after click the start option and select printing option standard as shown in below figure.
-![Alt text](<Screenshot 2023-12-28 120215.png>)
+![Screenshot 2023-12-28 120215](https://github.com/sasintharparanthaman/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145743219/0cfd200e-0269-4bb0-b787-460643d4f430)
+
 
 ### Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
 ### Step 10.:- After generate the gcode format then follow the these instruction 
@@ -39,10 +42,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![Alt text](<Screenshot 2023-12-28 120229.png>)
+![Screenshot 2023-12-28 120229](https://github.com/sasintharparanthaman/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145743219/cfcf82b6-4aef-4a2b-84c1-84e96a1d1e91)
+
 
 ### Output:
-![Alt text](<Screenshot 2023-12-28 120246.png>)
+![Screenshot 2023-12-28 120246](https://github.com/sasintharparanthaman/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145743219/2e6931ad-c7fe-47c7-b1bd-67aec6f64475)
 
 
 ### Name:P.Sasinthar
